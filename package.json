@@ -1,0 +1,17 @@
+{
+  "name": "datadot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node datadot.js"
+  },
+
+  "dependencies": {
+    "influx": "3.4.x"
+  },
+
+  "engines": {
+    "node": "0.12.x",
+    "npm": "2.10.x"
+  }
+}
